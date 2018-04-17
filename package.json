@@ -1,0 +1,22 @@
+{
+  "name": "adjust",
+  "version": "1.0.0",
+  "description": "To start your Phoenix server:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "mocha": "^5.1.0"
+  },
+  "scripts": {
+    "test": "mocha --require babel-core/register test/js/**/*.js"
+  },
+  "author": "Tiago Davi",
+  "license": "ISC"
+}

@@ -1,0 +1,17 @@
+<div class="panel panel-info">
+  <div class="panel-heading">Search for Tweets</div>
+  <div class="panel-body">
+
+    <div class="input-group">
+      <span class="input-group-addon" id="sizing-addon2">#</span>
+      <input id="getTweets" type="text" class="form-control" placeholder="Type your term here" aria-describedby="sizing-addon2">
+    </div>
+
+    <br>
+
+    <span id="message"></span>
+
+    <ul id="results" class="list-group"></ul>
+
+  </div>
+</div>
