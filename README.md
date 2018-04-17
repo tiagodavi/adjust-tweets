@@ -1,6 +1,6 @@
 # Adjust
 
-First all install Elixir/Erlang
+Install Elixir/Erlang
 
 https://elixir-lang.org/install.html
 
